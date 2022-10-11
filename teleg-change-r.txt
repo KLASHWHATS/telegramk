@@ -1,4 +1,4 @@
-Version 1.00. Changelog:
+Version 1.10. Changelog:
 
 > Updated source code to v8.8.4.0.
 > Doubled limits on everything in the app
@@ -9,7 +9,7 @@ Version 1.00. Changelog:
 > Stickers with full>screen animations
 > Additional reactions
 > and more in Settings &gt; Telegram Premium
-> Option to show â€™Pinâ€™ button in main screen header.
+> Option to show ’Pin’ button in main screen header.
 > Option to show last reaction instead of heart in main screen.
 > Added upload date of profile photos.
 > Option to load all recent stickers instead of only last 20.
